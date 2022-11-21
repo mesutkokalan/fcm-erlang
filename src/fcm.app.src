@@ -5,6 +5,6 @@
   {vsn, "1.2.1"},
   {modules, []},
   {registered, []},
-  {applications, [kernel, stdlib, google_oauth, base64url, jsx, lager, sasl]},
+  {applications, [kernel, stdlib, google_oauth, jsx, lager, sasl]},
 
   {mod, {fcm_app, []}}]}.
